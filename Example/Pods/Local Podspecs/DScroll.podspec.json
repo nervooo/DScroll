@@ -1,0 +1,22 @@
+{
+  "name": "DScroll",
+  "version": "0.1.0",
+  "summary": "A short description of DScroll.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nervanaadel89@gmail.com/DScroll",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nervanaadel89@gmail.com": "nervana.adel@adkatech.com"
+  },
+  "source": {
+    "git": "https://github.com/nervanaadel89@gmail.com/DScroll.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DScroll/Classes/**/*"
+}

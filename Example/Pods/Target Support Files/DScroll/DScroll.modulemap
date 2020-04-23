@@ -1,0 +1,6 @@
+framework module DScroll {
+  umbrella header "DScroll-umbrella.h"
+
+  export *
+  module * { export * }
+}
