@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DScroll_Example' do
+  pod 'DScroll', :path => '../'
+
+  target 'DScroll_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
