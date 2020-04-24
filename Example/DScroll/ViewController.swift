@@ -7,11 +7,15 @@
 //
 
 import UIKit
+import DScroll
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        let xyz = "hello world"
+        let string = xyz.trim()
+        print(string)
         // Do any additional setup after loading the view, typically from a nib.
     }
 
